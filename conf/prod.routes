@@ -1,3 +1,4 @@
 # Add all the application routes to the app.routes file
-->         /message-frontend              app.Routes
+->         /                          app.Routes
+
 ->         /                          health.Routes
